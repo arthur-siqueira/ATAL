@@ -1,1 +1,1 @@
-Repositório para códigos feitos durante a disciplina análise técnica de algoritmos
+Repositório que contém a solução dos exercícios feitos durante a disciplina de analise técnica de algortimos (ATAL).
